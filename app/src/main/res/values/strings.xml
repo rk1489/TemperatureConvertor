@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Convertor</string>
+    <string-array name="Scales">
+        <item>Celcius °C</item>
+        <item>Fahrenheit °F</item>
+        <item>Kelvin K</item>
+        <item>Rankine °R</item>
+    </string-array>
+</resources>
