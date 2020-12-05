@@ -1,4 +1,4 @@
-# TemperatureConvertor
+# Temperature Convertor
 ### Android app repository
 
 ## The apk release can be seen at: https://drive.google.com/file/d/18P4Cx1vNq_mNbxp2byqj8_2AwmN7OMZr/view?usp=sharing
